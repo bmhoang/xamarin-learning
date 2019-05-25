@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/sample-listview/.vs/App2/v16
+/sample-listview/.vs
+/sample-listview/App2/obj
+/sample-listview/App2/bin
